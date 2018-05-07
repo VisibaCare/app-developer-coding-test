@@ -4,6 +4,8 @@ Vi värdesätter enkel och läsbar kod som ska vara lätt att förstå utan att 
 
 Det är OK att använda tredjepartsbibliotek i den mån det känns rimligt.
 
+Läs igenom instruktionerna ordentligt innan du börjar så minskar risken för att något saknas.
+
 ## Vad användaren ska kunna göra i appen:
 
 ```markdown
@@ -20,12 +22,17 @@ Det är OK att använda tredjepartsbibliotek i den mån det känns rimligt.
 - Du bestämmer helt hur designen ska se ut. Vi föredrar att du använder standardkomponenter i den mån det är möjligt.
 ```
 
+## Övrigt:
+
+```markdown
+- Appen ska hantera fel som kan uppstå.
+```
+
 ## Bonus:
 
 ```markdown
 - Gör det möjligt att använda appen offline genom att cacha senaste resultatet och på något sätt presentera för användaren att man inte kan läsa mer om nyheten.
 - Gör det möjligt att “favoritmarkera” en nyhet och lista dessa i en egen lista.
-- Hantera fel som kan uppstå.
 ```
 
 ## Specifikt för iOS:
