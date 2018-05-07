@@ -7,7 +7,7 @@ Det är OK att använda tredjepartsbibliotek i den mån det känns rimligt.
 ## Vad användaren ska kunna göra i appen:
 
 ```markdown
-- Appen ska läsa in de 100 senaste nyheterna från Börskollen via följande länk: [https://www.borskollen.se/api/v3/news?ids=1,2,3,4,5,6,7,8,9,10,11](https://www.borskollen.se/api/v3/news?ids=1,2,3,4,5,6,7,8,9,10,11)
+- Appen ska läsa in de 100 senaste nyheterna från Börskollen via följande länk: https://www.borskollen.se/api/v3/news?ids=1,2,3,4,5,6,7,8,9,10,11
 - Nyheterna ska presenteras snyggt och prydligt i någon form av lista, bilder ska vara med om det finns en kopplad till nyheten.
 - Användaren ska kunna klicka på en nyhet och läsa mer om den (med hjälp av webUrl) utan att lämna appen.
 - Användaren ska på något sätt kunna ladda om listvyn för att läsa in de 100 senaste nyheterna igen.
@@ -47,5 +47,5 @@ Det är OK att använda tredjepartsbibliotek i den mån det känns rimligt.
 
 ## Slutfört projekt:
 ```markdown
-- Slutfört projekt arkiveras och skickas till <iosdevs@visibacare.com> (iOS) eller <mailto:androiddevs@visibacare.com> (Android) beroende på tjänst som söks.
+- Slutfört projekt arkiveras och skickas till iosdevs@visibacare.com (iOS) eller androiddevs@visibacare.com (Android) beroende på tjänst som söks.
 ```
