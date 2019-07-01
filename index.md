@@ -48,7 +48,7 @@ Läs igenom instruktionerna ordentligt innan du börjar så minskar risken för 
 
 ```markdown
 - Appen ska skrivas i Java och/eller Kotlin.
-- Appen ska kunna köras på enheter med API 19 och uppåt.
+- Appen ska kunna köras på enheter med API 21 och uppåt.
 - Appen ska byggas med Gradle.
 ```
 
