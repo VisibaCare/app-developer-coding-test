@@ -54,5 +54,5 @@ Läs igenom instruktionerna ordentligt innan du börjar så minskar risken för 
 
 ## Slutfört projekt:
 ```markdown
-- Slutfört projekt arkiveras och skickas till iosdevs@visibacare.com (iOS) eller androiddevs@visibacare.com (Android) beroende på tjänst som söks.
+- Slutfört projekt arkiveras och skickas till andreas.astlind@visibacare.com.
 ```
